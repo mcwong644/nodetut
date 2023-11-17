@@ -1,0 +1,28 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.btnGrp{
+    display: block;
+    text-align: center;
+    
+}
+button{
+    background-color: lightgray;
+    font-size: 20px;
+    color: white;
+    border: 10px solid gold;
+    border-radius: 10px;
+    margin: 3px;
+}
+
+#myCheckBoxLabel{
+    font-size: 30px;
+}
+
+label, #result{
+    font-size: 30px;
+}
